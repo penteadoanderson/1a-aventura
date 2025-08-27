@@ -1,7 +1,25 @@
-body{
-    background-color: darkslateblue;
-    color:black;
-    display: flesx;
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: nor
+
+body {
+    background-color: #581284;
+    color: white;
+    display: flex;
     justify-content: center;
     align-items: center;
+    height: 700px;
+    margin: 0;
+    font-family:Lobster
+
+}
+
+button {
+    background-color: #000000;
+    color: white;
+    
 }
